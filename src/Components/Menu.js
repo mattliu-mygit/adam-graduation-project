@@ -16,7 +16,7 @@ const Menu = (props) => {
       style={{
         position: "absolute",
         left: 0,
-        top: "40%",
+        top: "5%",
         zIndex: "10000000",
       }}
       onMouseEnter={() => {
