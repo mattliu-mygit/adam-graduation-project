@@ -10,7 +10,7 @@ import EnvelopesPage from "./Components/EnvelopesPage";
 import Menu from "./Components/Menu";
 import InitPage from "./Components/InitPage";
 import photos from "./photos";
-const ENVELOPES_PER_PERSON = 6;
+const ENVELOPES_PER_PERSON = 7;
 
 function App() {
   const [sound, setSound] = useState(false);
