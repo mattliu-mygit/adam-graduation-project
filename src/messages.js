@@ -1,13 +1,13 @@
 const messages = [
   {
-    name: "𝓑𝓻𝓲𝓪𝓷 𝓚𝓲𝓶",
+    name: "𝓨𝓲",
     message: [
       "Congratulations on graduating… Adam! Thank you for leading this team! Wishing that brighter opportunities come your way and you achieve success in all of them!",
     ],
     images: [],
   },
   {
-    name: "𝓙𝓪𝓬𝓴 𝓨𝓾𝓮",
+    name: "𝓣𝓪𝔂𝓵𝓸𝓻",
     message: [
       "The Overwatch legend, the epic drummer, the sewing master. You were a great president for this year and I learned a lot by watching you do your stuff!!! You're a great leader and I'm glad I was able to be under your guide for the year!",
     ],
@@ -42,14 +42,21 @@ const messages = [
     images: [],
   },
   {
-    name: "𝓑𝓻𝓲𝓪𝓷 𝓚𝓲𝓶",
+    name: "𝓡𝓸𝔂 𝓢𝓾𝓷",
+    message: [
+      "you've been an amazing club leader these past two years, and I hope I'll see you around in the fall! (roy)",
+    ],
+    images: [],
+  },
+  {
+    name: "𝓨𝓲",
     message: [
       "Anna congratulations on graduating (several months ago)! Thanks for being supportive and teaching me a lot about lion dance! Hope you can keep doing stuff you like! 每次我对展示舞狮感到慌张的时候，你总会笑着和我说没事。非常感谢你的关照并祝你未来万事胜意。",
     ],
     images: [],
   },
   {
-    name: "𝓙𝓪𝓬𝓴 𝓨𝓾𝓮",
+    name: "𝓣𝓪𝔂𝓵𝓸𝓻",
     message: [
       "You were a cool teacher, and have a really nice apartment. SO NICE. Even though you were a busy bee a lot of the times, you still made time to visit and help us during practice sometimes (very epic)! You're a great senior and I hope you the best!",
     ],
@@ -87,14 +94,21 @@ const messages = [
     images: [],
   },
   {
-    name: "𝓑𝓻𝓲𝓪𝓷 𝓚𝓲𝓶",
+    name: "𝓡𝓸𝔂 𝓢𝓾𝓷",
+    message: [
+      "congrats on already having graduated for a semester! it's been great working with you this year :D (roy)",
+    ],
+    images: [],
+  },
+  {
+    name: "𝓨𝓲",
     message: [
       "Carol congratulations on graduating! Thanks for being supportive and teaching me a lot about lion dance! Good luck on your study in grad school. ",
     ],
     images: [],
   },
   {
-    name: "𝓙𝓪𝓬𝓴 𝓨𝓾𝓮",
+    name: "𝓣𝓪𝔂𝓵𝓸𝓻",
     message: [
       "You're a very caring person! I appreciate your insights and attendance to our practices even though you're super busy. Although you may not be in the lion, your experience was a super valuable asset to us!",
     ],
@@ -129,14 +143,21 @@ const messages = [
     images: [],
   },
   {
-    name: "𝓑𝓻𝓲𝓪𝓷 𝓚𝓲𝓶",
+    name: "𝓡𝓸𝔂 𝓢𝓾𝓷",
+    message: [
+      "thanks for teaching me how to stack, and for bailing me out when I fell or dropped people :o (roy)",
+    ],
+    images: [],
+  },
+  {
+    name: "𝓨𝓲",
     message: [
       "Hey a hearty congratulation on your graduation and wishing you good luck for the new beginning in life. May you reach all your goals.",
     ],
     images: [],
   },
   {
-    name: "𝓙𝓪𝓬𝓴 𝓨𝓾𝓮",
+    name: "𝓣𝓪𝔂𝓵𝓸𝓻",
     message: ["Thanks for your angy angy ):< ):< lion advice."],
     images: [],
   },
@@ -171,14 +192,21 @@ const messages = [
     images: [],
   },
   {
-    name: "𝓑𝓻𝓲𝓪𝓷 𝓚𝓲𝓶",
+    name: "𝓡𝓸𝔂 𝓢𝓾𝓷",
+    message: [
+      "thank you so much for co-convincing me to join lion dance back in 2020! (roy)",
+    ],
+    images: [],
+  },
+  {
+    name: "𝓨𝓲",
     message: [
       "Kevin congratulations on graduating! Thanks for being supportive and teaching me a lot about lion dance! Hope you can keep doing stuff you like! 我不会忘记你每次把我们挨个叫出来练习的画面哈哈(adding a little spice to the practice)。很开心能认识你，祝前程似锦。",
     ],
     images: [],
   },
   {
-    name: "𝓙𝓪𝓬𝓴 𝓨𝓾𝓮",
+    name: "𝓣𝓪𝔂𝓵𝓸𝓻",
     message: [
       "Hi, Mr. Streamer Person. You're really good at lightening the mood and making people feel welcome. At the same time, you can be a good teacher and help us genuinely learn. You are very POGGERS, no cyap, not even trolling.",
     ],
@@ -215,14 +243,21 @@ const messages = [
     images: [],
   },
   {
-    name: "𝓑𝓻𝓲𝓪𝓷 𝓚𝓲𝓶",
+    name: "𝓡𝓸𝔂 𝓢𝓾𝓷",
+    message: [
+      "i appreciate the chembe advice and sympathy :') wishing you all the best! (roy)",
+    ],
+    images: [],
+  },
+  {
+    name: "𝓨𝓲",
     message: [
       "Hey a hearty congratulation on your graduation and wishing you good luck for the new beginning in life. May you reach all your goals.",
     ],
     images: [],
   },
   {
-    name: "𝓙𝓪𝓬𝓴 𝓨𝓾𝓮",
+    name: "𝓣𝓪𝔂𝓵𝓸𝓻",
     message: [
       "I didn't really get a chance to talk to you but you seemed super nice, talented, and willing to help us out whenever we needed. I'm glad we got to at least briefly meet!",
     ],
@@ -256,6 +291,13 @@ const messages = [
     name: "𝓒𝓪𝓻𝓸𝓵 𝓛𝓾",
     message: [
       "Sabrina! You are such an amazing lion dancer and leader. Congrats on graduation and here’s to 4 years of lion dancing!",
+    ],
+    images: [],
+  },
+  {
+    name: "𝓡𝓸𝔂 𝓢𝓾𝓷",
+    message: [
+      "even though I only met you two or three times, I'm happy you gave critique and tips on stalking :) (roy)",
     ],
     images: [],
   },
