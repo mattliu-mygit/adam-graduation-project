@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import ClosedEnvelope from "./ClosedEnvelope";
 import RunningGirl from "./RunningGirl";
 import OpenedMessage from "./OpenedMessage";
-const ENVELOPES_PER_PERSON = 7;
+const ENVELOPES_PER_PERSON = 9;
 
 const EnvelopesPage = (props) => {
   const [mod, setMod] = useState(0);

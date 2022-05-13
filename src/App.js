@@ -10,7 +10,7 @@ import EnvelopesPage from "./Components/EnvelopesPage";
 import Menu from "./Components/Menu";
 import InitPage from "./Components/InitPage";
 import photos from "./photos";
-const ENVELOPES_PER_PERSON = 7;
+const ENVELOPES_PER_PERSON = 9;
 
 function App() {
   const [sound, setSound] = useState(false);
@@ -76,13 +76,14 @@ function App() {
         }
       }, 3400 * photos.length);
     } else {
-      setPassedOver(-1);
       setEnvelopes([]);
       setVerticalLevel(0);
       setX(-30);
       setR(true);
       setOpened(0);
+      setRBorder(false);
       setLastPushed(0);
+      setPassedOver(0);
     }
   }, [sound, pageNum]);
 
